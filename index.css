@@ -1,0 +1,1702 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:  #E5E5E5;
+}
+.container{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+.navbar{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    border: 1px solid #E3E7EE;
+    height: 70px;
+}
+.navbar > div{
+    line-height: 50px;
+    text-align: center;
+}
+.nav1{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.nav1 > div{
+    line-height: 50px;
+    margin: 20px;
+    text-align: center;   
+}
+.nav2{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.nav2 > div{
+    line-height: 50px;
+    margin: 20px;
+    text-align: center;   
+}
+.img{
+    width: 40px;
+    height: 36px;
+    left: 68px;
+    top: 17px;
+}
+.b{
+    width: 95px;
+    height: 29px;
+    left: 117px;
+    top: 21px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+.var{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+.a{
+    text-decoration: none;
+    color: #000000;
+}
+.dogsnap{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.dogsnap > div {
+    line-height: 50px;
+    text-align: center;
+    width: 70px;
+}
+.text{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.text  > div {
+    text-align: center;
+}
+.select{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    margin-top: 200px;
+}
+.select > div {
+    line-height: 50px;
+    text-align: center;
+    margin: 0 10px ;
+}
+.text2a{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.text2a  > div {
+    text-align: center;
+}
+.thumnails{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.thumnails > div {
+    margin: 20px 20px;
+    text-align: center;
+}
+.footer{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    background-color:  wheat;
+}
+.footer  > div {
+    text-align: center;
+}
+.foot1{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.foot1 > div {
+    text-align: center;
+}
+.foota{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+}
+.foota > div {
+    text-align: left;
+}
+.one{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.one > div {
+    text-align: left;
+}
+
+.footb{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+}
+.footb > div {
+    margin: 10px;
+    text-align: center;
+}
+.footc{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+}
+.footc > div {
+    margin: 10px;
+    text-align: center;
+}
+.footd{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+}
+.footd > div {
+    margin: 10px;
+    text-align: left;
+}
+.d1{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.d1 > div {
+    text-align: left;
+}
+.foot2{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    background-color:  tan;
+}
+.foot2 > div {
+    text-align: center;
+}
+.foot2a{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.foot2a > div {
+    text-align: center;
+}
+.foot2b{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.foot2b > div {
+    text-align: center;
+}
+.foot2c{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.foot2c > div {
+    text-align: center;
+}
+.foot2d{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+}
+.foot2d > div {
+    text-align: left;
+}
+.foot2e{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+}
+.foot2e > div {
+    text-align: left;
+}
+.f12{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    margin: 10px 0;
+}
+.f12 > div {
+    text-align: left;
+}
+.btn{
+    margin-top: 30px;
+    border-radius: 20px;
+    background-color:  #EEF3FB;
+    border: transparent;
+}
+.btn:hover{
+    border: 2px solid dodgerblue;
+}
+.breed{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 116px;
+    color: #000000;
+}
+.buttn{
+    width: 264px;
+    height: 46px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.buttnn{
+    width: 264px;
+    height: 46px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.butt{
+    width: 173px;
+    height: 48px;
+    padding-left: 10px;
+}
+.butt:hover{
+    border: 3px solid dodgerblue;
+}
+.buttn:hover{
+    border: 3px solid dodgerblue;
+}
+.buttnn:hover{
+    border: 3px solid dodgerblue;
+}
+.apn{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+.appn{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    left: 901px;
+    top: 571px;
+}
+.bold{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 58px;
+}
+.text2{
+    padding-left: 40px;
+}
+.gmi{
+    opacity: 0.1;
+}
+.thumnails1{
+    background-image: url(/img/Rectangle\ 545.png);
+    background-size: 100% 100%;
+    width: 350px;
+    height: 456px;
+}
+.gmi:hover{
+    border: 1px solid transparent;
+    opacity: 1;
+}
+.pan{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #5F718C;
+}
+.pan:hover{
+    color: dodgerblue;
+    cursor: pointer;
+}
+.spa{
+    color: #5F718C;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+}
+.spa:hover{
+    color: dodgerblue;
+    cursor: pointer;
+}
+.sp{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;  
+}
+.bnt{
+    width: 304px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 2px solid #E3E7EE;
+    border-radius: 30px;
+    padding-left: 20px;
+    background-image: url(/img/Vector.png);
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.bnt:hover{
+    border: 3px solid dodgerblue;
+}
+.ftd{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #343434;
+    text-decoration: underline;
+}
+.eng{
+    width: 304px;
+    height: 40px;
+    left: 669px;
+    top: 2738px;
+    background: #FFFFFF;
+    border: 1.2px solid #70788C;
+    border-radius: 10px;
+}
+.eng:hover{
+    border: 3px solid dodgerblue;
+}
+@font-face {
+    font-family: dancing;
+    src: url(dancingScript.ttf);
+}
+.flex{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.flex > div{
+    text-align: center;
+    line-height: 20px;
+    margin: 20px;
+}
+.flex2{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+}
+.flex2 > div{
+    text-align: center;
+}
+.flex4{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+}
+.flex4 > div{
+    text-align: center;
+}
+.flex5{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.flex5 > div{
+    text-align: center;
+    margin: 20px;
+    width: 300px;
+    height: 340px;
+    border: 2px solid white;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.flex5 > div:hover{
+    border: 2px solid dodgerblue;
+}
+img:hover{
+    border: 2px solid dodgerblue;
+}
+li{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #5F718C;
+    cursor: pointer;
+}
+ul{
+    list-style-type: none;
+    text-align: left;
+}
+li:hover{
+    color: dodgerblue;
+    text-decoration: underline;
+}
+.selectt{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #5F718C;
+    cursor: pointer;
+    border: none;
+    background-color: #E5E5E5 ;
+    text-align: left;
+}
+.selectt:hover{
+    color: dodgerblue;
+}
+.text:hover{
+    text-decoration: underline;
+    color: dodgerblue;
+}
+.text2a:hover{
+    text-decoration:2px underline dodgerblue;
+}
+
+@media only screen and (max-width: 1300px){
+    .container{
+        background-color:#5F718C;
+    }
+    
+    .select{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        margin-top: 200px;
+    }
+    .select > div {
+        line-height: 50px;
+        text-align: center;
+        margin: 0 10px ;
+    }
+    .select{
+        margin-left: 0px !important;
+    }
+    .select4{
+        margin-left: 300px !important;
+    }
+    .text2a{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .text2a  > div {
+        text-align: left !important;
+        padding-left: 25px !important;
+    }
+    .thumnails{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .thumnails > div {
+        margin: 20px 5px;
+        text-align: center;
+        margin-left: 30px;
+    }
+   
+    .footer{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footer  > div {
+        text-align: center;
+        margin: 0px 20px !important;
+    }
+    .foot1{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot1 > div {
+        text-align: center;
+        margin: 0 20px !important;
+    }
+    .foota{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+    }
+    .foota > div {
+        text-align: left;
+    }
+    .one{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .one > div {
+        text-align: left;
+    }
+    
+    .footb{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footb > div {
+        margin: 10px 30px;
+        text-align: center;
+        margin-left: 30px !important;
+    }
+    .footc{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footc > div {
+        margin: 10px 30px;
+        text-align: center;
+        margin-left: 30px !important;
+    }
+    .footd{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footd > div {
+        margin: 15px 40px;
+        text-align: left;
+        margin-left: 75px!important;
+    }
+    .d1{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .d1 > div {
+        text-align: left;
+    }
+    .foot2{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2 > div {
+        text-align: center;
+        margin-left: 20px!important;
+    }
+    .foot2a{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2a > div {
+        text-align: center;
+    }
+    .foot2b{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2b > div {
+        text-align: center;
+    }
+    .foot2c{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2c > div {
+        text-align: center;
+    }
+    .foot2d{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .foot2d > div {
+        text-align: left; 
+        margin-left: 150px!important;
+    }
+    .foot2e{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .foot2e > div {
+        text-align: left;  
+        margin-left: 120px!important; 
+    }
+    .f12{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        margin: 10px 0;
+    }
+    .f12 > div {
+        text-align: left;
+    }
+    .flex{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .flex > div{
+        text-align: center;
+        line-height: 20px;
+        margin: 5px;
+    }
+    .flex2{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .flex2 > div{
+        text-align: center;
+    }
+    .flex4{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .flex4 > div{
+        text-align: center;
+    }
+    .flex5{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .flex5 > div{
+        text-align: center;
+        margin: 17px;
+        width: 300px;
+        height: 340px;
+        border: 2px solid white;
+        background-color: #FFFFFF;
+        border-radius: 10px;
+    }
+    .flex5 > div:hover{
+        border: 2px solid dodgerblue;
+    }
+}
+
+@media only screen and (max-width: 1190px){
+    .container{
+        background-color:#343434;
+    }
+    
+    .select{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        margin-top: 200px;
+    }
+    .select > div {
+        line-height: 50px;
+        text-align: center;
+        margin: 0 5px ;
+    }
+    .select{
+        margin-left: 0px !important;
+    }
+    .select4{
+        margin-left: 200px !important;
+    }
+    .text2a{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .text2a  > div {
+        text-align: left !important;
+        padding-left: 25px !important;
+    }
+    .thumnails{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .thumnails > div {
+        margin: 20px 5px;
+        text-align: center;
+        margin-left: 30px;
+    }
+   .x{
+    width: 300px;
+    height: 456px;
+   }
+   .thumnails1{
+    width: 300px;
+    margin: 20px 25px !important;
+   }
+   
+    .footer{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footer  > div {
+        text-align: center;
+        margin: 0px 20px !important;
+    }
+    .foot1{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot1 > div {
+        text-align: center;
+        margin: 0 20px !important;
+    }
+    .foota{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+    }
+    .foota > div {
+        text-align: left;
+    }
+    .one{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .one > div {
+        text-align: left;
+    }
+    
+    .footb{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footb > div {
+        margin: 10px 30px;
+        text-align: center;
+        margin-left: 20px !important;
+    }
+    .footc{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footc > div {
+        margin: 10px 20px;
+        text-align: center;
+        margin-left: 20px !important;
+    }
+    .footd{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footd > div {
+        margin: 15px 40px;
+        text-align: left;
+        margin-left: 70px!important;
+    }
+    .bnt{
+        width: 210px !important;
+    }
+    .d1{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .d1 > div {
+        text-align: left;
+    }
+    .foot2{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2 > div {
+        text-align: center;
+        margin-left: 20px!important;
+    }
+    .foot2a{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2a > div {
+        text-align: center;
+    }
+    .foot2b{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2b > div {
+        text-align: center;
+    }
+    .foot2c{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2c > div {
+        text-align: center;
+    }
+    .foot2d{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .foot2d > div {
+        text-align: left; 
+        margin-left: 100px!important;
+    }
+    .foot2e{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .foot2e > div {
+        text-align: left;  
+        margin-left: 70px!important; 
+    }
+    .f12{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        margin: 10px 0;
+    }
+    .f12 > div {
+        text-align: left;
+    }
+    .flex{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .flex > div{
+        text-align: center;
+        line-height: 20px;
+        margin: 5px;
+    }
+    .flex2{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .flex2 > div{
+        text-align: center;
+    }
+    .flex4{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+  
+    .flex4 > div{
+        text-align: center;
+    }
+    .flex5{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .flex5 > div{
+        text-align: center;
+        margin: 17px;
+        width: 250px;
+        height: 340px;
+        border: 2px solid white;
+        background-color: #FFFFFF;
+        border-radius: 10px;
+    }
+    .xx{
+        width: 200px;
+        height: 290px;
+    }
+    .buttnn{
+        margin-left: 210px !important;
+    }
+    .flex5 > div:hover{
+        border: 2px solid dodgerblue;
+    }
+}
+
+@media only screen and (max-width: 1070px){
+    .container{
+        background-color:#EEF3FB;
+    }
+    .nav1a{
+        margin-left: 10px !important;
+    }
+    .nav2a{
+        margin-left: 2px !important;
+    }
+    .nav2b{
+        margin-left: 0px !important;
+    }
+    .select{
+        display: flex;
+        flex-flow: row wrap !important;
+        justify-content: flex-start;
+        margin-top: 200px;
+    }
+    .select > div {
+        line-height: 50px;
+        text-align: center;
+        margin: 0 5px ;
+    }
+    .select{
+        margin-left: 0px !important;
+    }
+    .select4{
+        margin-left: 10 !important;
+    }
+    .select1{
+        margin-left: 10px !important;
+    }
+    .select2{
+        margin-left: 10px !important;
+    }
+    .select3{
+        margin-left: 0px !important;
+    } 
+    .select4{
+        margin-left: 60px !important;
+    }
+    .text2a{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .text2a  > div {
+        text-align: left !important;
+        padding-left: 25px !important;
+    }
+    .thumnails{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .thumnails > div {
+        margin: 20px 5px;
+        text-align: center;
+        margin-left: 30px;
+    }
+    .x{
+        width: 250px;
+        height: 456px;
+    }
+       .thumnails1{
+        width: 250px;
+        margin: 20px 25px !important;
+    }
+   
+    .footer{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footer  > div {
+        text-align: center;
+        margin: 0px 20px !important;
+    }
+    .foot1{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot1 > div {
+        text-align: center;
+        margin: 0px !important;
+    }
+    .foota{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+    }
+    .foota > div {
+        text-align: left;
+    }
+    .one{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .one > div {
+        text-align: left;
+    }
+    
+    .footb{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footb > div {
+        margin: 10px 30px;
+        text-align: center;
+        margin-left: 20px !important;
+    }
+    .footc{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footc > div {
+        margin: 10px 20px;
+        text-align: center;
+        margin-left: 20px !important;
+    }
+    .footd{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footd > div {
+        margin: 15px 40px;
+        text-align: left;
+        margin-left: 70px!important;
+    }
+    .bnt{
+        width: 210px !important;
+    }
+    .d1{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .d1 > div {
+        text-align: left;
+    }
+    .foot2{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2 > div {
+        text-align: center;
+        margin-left: 0px!important;
+    }
+    .foot2a{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2a > div {
+        text-align: center;
+    }
+    .foot2b{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2b > div {
+        text-align: center;
+    }
+    .foot2c{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2c > div {
+        text-align: center;
+    }
+    .foot2d{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .foot2d > div {
+        text-align: left; 
+        margin-left: 80px!important;
+    }
+    .foot2e{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .foot2e > div {
+        text-align: left;  
+        margin-left: 40px!important; 
+    }
+    .f12{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        margin: 10px 0;
+    }
+    .f12 > div {
+        text-align: left;
+    }
+    .flex{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .flex > div{
+        text-align: center;
+        line-height: 20px;
+        margin: 5px;
+    }
+    .flex2{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .flex2 > div{
+        text-align: center;
+    }
+    .flex4{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .flex4 > div{
+        text-align: center;
+    }
+    .flex5{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .flex5 > div{
+        text-align: center;
+        margin: 17px;
+        width: 205px;
+        height: 340px;
+        border: 2px solid white;
+        background-color: #FFFFFF;
+        border-radius: 10px;
+    }
+    .flex5 > div:hover{
+        border: 2px solid dodgerblue;
+    }
+    .xx{
+        width: 180px;
+        height: 290px;
+    }
+    .buttnn{
+        margin-left: 80px !important;
+    }
+}
+
+@media only screen and (max-width: 920px){
+    .container{
+        background-color:burlywood;
+    }
+    
+    .select{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        margin-top: 200px;
+    }
+    .select > div {
+        line-height: 50px;
+        text-align: center;
+        margin: 0 20px ;
+    }
+    .select{
+        margin-left: 0px !important;
+    }
+    .select4{
+        margin-left: 200px !important;
+        margin-top: 20px !important;
+    }
+    .text2a{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .text2a  > div {
+        text-align: left !important;
+        padding-left: 25px !important;
+    }
+    .thumnails{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .thumnails > div {
+        margin: 20px 5px;
+        text-align: center;
+    }
+    .x{
+        width: 275px;
+        height: 456px;
+    }
+       .thumnails1{
+        width: 275px;
+        margin: 20px 25px !important;
+    }
+
+    .footer{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footer  > div {
+        text-align: center;
+        margin: 0 10px !important;
+    }
+    .foot1{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot1 > div {
+        text-align: center;
+        margin: 0px !important;
+    }
+    .foota{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+    }
+    .foota > div {
+        text-align: left;
+        margin-left: 10px;
+    }
+    .one{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .one > div {
+        text-align: left;
+    }
+    
+    .footb{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+        /* flex-grow: 6px !important; */
+    }
+    .footb > div {
+        margin: 10px 30px;
+        text-align: center;
+        margin-left: 100px !important;
+    }
+    .footc{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footc > div {
+        margin: 10px 20px;
+        text-align: center;
+        margin-left: 60px !important;
+    }
+    .footd{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footd > div {
+        margin: 15px 40px;
+        text-align: left;
+        margin-left: 10px!important;
+    }
+    .bnt{
+        width: 200px !important;
+    }
+    .d1{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .d1 > div {
+        text-align: left;
+    }
+    .foot2{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2 > div {
+        text-align: center;
+        margin-left: 0px!important;
+    }
+    .foot2a{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2a > div {
+        text-align: center;
+    }
+    .foot2b{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2b > div {
+        text-align: center;
+    }
+    .f1{
+        margin-left: 10px;
+    }
+    .f4{
+        margin-left: 200px;
+    }
+    .f6{
+        margin-left: 10px;
+    }
+    .foot2c{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2c > div {
+        text-align: center;
+    }
+    .foot2d{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .foot2d > div {
+        text-align: left; 
+        margin-left: 10px!important;
+    }
+    .foot2e{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .foot2e > div {
+        text-align: left;  
+        margin-left: 150px!important; 
+    }
+    .f12{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        margin: 10px 0;
+    }
+    .f12 > div {
+        text-align: left;
+    }
+    .flex{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        margin-bottom: 30px;
+    }
+    .flex > div{
+        text-align: center;
+        line-height: 20px;
+        margin: 5px;
+    }
+    .flex2{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .flex2 > div{
+        text-align: center;
+    }
+    .flex4{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .flex4 > div{
+        text-align: center;
+    }
+    .flex5{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .flex5 > div{
+        text-align: center;
+        margin: 17px 5px;
+        width: 150px;
+        height: 340px;
+        border: 2px solid white;
+        background-color: #FFFFFF;
+        border-radius: 10px;
+    }
+    .flex5 > div:hover{
+        border: 2px solid dodgerblue;
+    }
+    .xx{
+        width: 130px;
+        height: 290px;
+    }
+    .buttnn{
+        margin-left: 0px !important;
+        width: 220px;
+    }
+    .t{
+        width: 130px;
+    }
+    
+}
+
+@media only screen and (max-width: 665px){
+    .container{
+        background-color:teal;
+    }
+    
+    .select{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        margin-top: 200px;
+    }
+    .select > div {
+        line-height: 50px;
+        text-align: left;
+        margin: 0 10px 0 20px!important;
+    }
+    .select4{
+        margin-left: 0px !important;
+    }
+    .text2a{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .text2a  > div {
+        text-align: left !important;
+        padding-left: 25px !important;
+    }
+    .thumnails{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .thumnails > div {
+        margin: 20px 5px;
+        text-align: center;
+    }
+    .x{
+        width: 275px;
+        height: 456px;
+    }
+       .thumnails1{
+        width: 275px;
+        margin: 20px 25px !important;
+    }
+    .footer{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footer  > div {
+        text-align: center;
+        margin: 0 10px !important;
+    }
+    .foot1{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot1 > div {
+        text-align: center;
+        margin: 0px !important;
+    }
+    .foota{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+    }
+    .foota > div {
+        text-align: left;
+        margin-left: 10px;
+    }
+    .one{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .one > div {
+        text-align: left;
+    }
+    
+    .footb{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footb > div {
+        margin: 10px 30px;
+        text-align: center;
+        margin-left: 10px !important;
+    }
+    .footc{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footc > div {
+        margin: 10px 20px;
+        text-align: center;
+        margin-left: 5px !important;
+    }
+    .footd{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .footd > div {
+        margin: 15px 40px;
+        text-align: left;
+        margin-left: 10px!important;
+    }
+    .bnt{
+        width: 200px !important;
+    }
+    .d1{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .d1 > div {
+        text-align: left;
+    }
+    .foot2{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2 > div {
+        text-align: center;
+        margin-left: 0px!important;
+    }
+    .foot2a{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2a > div {
+        text-align: center;
+    }
+    .foot2b{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2b > div {
+        text-align: center;
+    }
+    .f1{
+        margin-left: 5px;
+    }
+    .f4{
+        margin-left: 100px;
+    }
+    .f6{
+        margin-left: 10px;
+    }
+    .foot2c{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .foot2c > div {
+        text-align: center;
+    }
+    .foot2d{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .foot2d > div {
+        text-align: left; 
+        margin-left: 10px!important;
+    }
+    .foot2e{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .foot2e > div {
+        text-align: left;  
+        margin-left: 50px!important; 
+    }
+    .f12{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        margin: 10px 0;
+    }
+    .f12 > div {
+        text-align: left;
+    }
+    .flex{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        margin-bottom: 30px;
+    }
+    .flex > div{
+        text-align: center;
+        line-height: 20px;
+        margin: 5px;
+    }
+    .flex2{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .flex2 > div{
+        text-align: center;
+    }
+    .flex4{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .flex4 > div{
+        text-align: center;
+    }
+    .flex5{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .flex5 > div{
+        text-align: center;
+        margin: 17px 2px;
+        width: 90px;
+        height: 340px;
+        border: 2px solid white;
+        background-color: #FFFFFF;
+        border-radius: 10px;
+    }
+    .flex5 > div:hover{
+        border: 2px solid dodgerblue;
+    }
+    .xx{
+        width: 80px;
+        height: 290px;
+    }
+    .buttnn{
+        margin-left: 0px !important;
+        width: 150px;
+    }
+    .t{
+        width: 65px;
+    }
+    
+}
